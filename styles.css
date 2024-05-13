@@ -9,6 +9,7 @@ body {
     margin:  5%;
     padding-top: 5%;
     color: #FEF2BF;
+    cursor: pointer;
   }
   
   .container {
